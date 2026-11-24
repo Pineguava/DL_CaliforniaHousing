@@ -8,7 +8,7 @@ An end-to-end regression pipeline built with **TensorFlow / Keras** to predict C
 
 This project implements a Multi-Layer Perceptron (MLP) neural network on the classic **California Housing Dataset**. 
 
-* **Task:** Continuous Regression (predicting `median_house_value`).
+* **Task:** Continuous Regression (predicting median house value).
 * **Dataset Size:** 20,640 block groups / samples.
 * **Target Units:** Continuous value in units of \$100,000 (e.g., `2.5` = \$250,000).
 
